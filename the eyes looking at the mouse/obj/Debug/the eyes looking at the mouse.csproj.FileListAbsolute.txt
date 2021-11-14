@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\bin\Debug\the eyes looking at the mouse.exe.config
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\bin\Debug\the eyes looking at the mouse.exe
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\bin\Debug\the eyes looking at the mouse.pdb
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the eyes looking at the mouse.csprojAssemblyReference.cache
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the_eyes_looking_at_the_mouse.Form1.resources
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the_eyes_looking_at_the_mouse.Properties.Resources.resources
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the eyes looking at the mouse.csproj.GenerateResource.cache
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the eyes looking at the mouse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the eyes looking at the mouse.exe
+C:\Users\User\source\repos\the eyes looking at the mouse\the eyes looking at the mouse\obj\Debug\the eyes looking at the mouse.pdb
